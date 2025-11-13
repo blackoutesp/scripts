@@ -4,7 +4,7 @@ echo -e "[Backup script]\n\n"
 echo -e "[*] Executing backup from $home_backup to $backups_folder ..."
 
 backup_folder='/mnt/sandisk/archlinux_backups'
-backups_folder='/Toshiba/archlinux_backups'
+backups_folder='/mnt/kingston/archlinux_backups'
 home_backup='/home/blackout'
 system_backup='/'
 ignore_home_cache='/home/blackout/.cache'
